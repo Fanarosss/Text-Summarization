@@ -19,4 +19,4 @@ Also, I performed
 ![](./images/cumulative_stats.png)
 
 #### Tableau Storytelling
-<a href='https://public.tableau.com/views/YoutubeStats_15898015327120/Story1'>Story 1 Link</a>
+<a href='https://public.tableau.com/views/YoutubeStats_15898015327120/Story1?:display_count=y&:origin=viz_share_link'>Story 1 Link</a>
