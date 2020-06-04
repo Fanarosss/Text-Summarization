@@ -1,4 +1,4 @@
-# Youtube-DataMining
+## Youtube Trending Videos Data Mining
 Areas: **Text Summarization**, **Tag Suggestion** and **Data Analytics**.
 
 What features matter the most when it comes to YouTube videos? In this project, I will dive in the details of trending youtube videos metadata to see from an analytical view the statistics of the top videos out there.
